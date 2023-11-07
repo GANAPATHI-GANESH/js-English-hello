@@ -1,3 +1,5 @@
 # js-English-hello
 A code repos for javascript at youtube channel
-Author - Ganapathi
+<br>
+<h1>Author - Ganapathi</h1>
+
